@@ -1,4 +1,5 @@
-# helloclass HelloWorld {
+# hello 
+class HelloWorld {
 
     public static void main(String[] args) {
 
